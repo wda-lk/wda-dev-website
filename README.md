@@ -1,1 +1,1 @@
-# wda-dev-website
+# website for WDA devlopment team
