@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://cat2020.org/sitemap.xml
+Sitemap:https://cat2020.org/sitemap_1.xml
